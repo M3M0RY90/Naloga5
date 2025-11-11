@@ -34,5 +34,5 @@ Tukaj je oseba A dodala neko novo besedilo, ki ni bil tu ampak zdaj je.....
 | `git merge <veja>` | Združi določeno vejo z trenutno |
 | `git log` | Prikaže zgodovino commitov |
 
-
+dodajam zaradi rebase delovanja
 
