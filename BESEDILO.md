@@ -5,8 +5,8 @@ svaka čast.
 Obozujem gittt
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z 
-drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket). To je res res res kul 
-stvar.
+drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  S tem se zmanjša 
+možnost konfliktov in izgube podatkov.
 
 Tukaj je oseba A dodala neko novo besedilo, ki ni bil tu ampak zdaj je.....
 
