@@ -4,7 +4,7 @@ Git je orodje, ki omogoča ogromno stvari, in je res super stvar. Kdor koli se j
 svaka čast.
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
-S tem se zmanjša možnost konfliktov in izgube podatkov.
+S tem se zmanjša možnost konfliktov in izgube podatkov. Neovim btw
 
 
 ## Glavne značilnosti
