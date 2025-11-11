@@ -2,6 +2,7 @@
 
 Git je orodje, ki omogoča ogromno stvari, in je res super stvar. Kdor koli se je spomnil to narediti, 
 svaka čast.
+Obozujem gittt
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z 
 drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket). To je res res res kul 
