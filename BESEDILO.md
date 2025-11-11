@@ -30,5 +30,5 @@ S tem se zmanjša možnost konfliktov in izgube podatkov.
 | `git merge <veja>` | Združi določeno vejo z trenutno |
 | `git log` | Prikaže zgodovino commitov |
 
-
+dodajam zaradi rebase delovanja
 
