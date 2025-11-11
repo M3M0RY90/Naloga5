@@ -31,4 +31,5 @@ S tem se zmanjša možnost konfliktov in izgube podatkov.
 | `git log` | Prikaže zgodovino commitov |
 
 dodajam zaradi rebase delovanja
+abc
 
